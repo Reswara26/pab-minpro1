@@ -8,7 +8,8 @@ NIM: 2409116100
 
 ## Deskripsi Aplikasi
 Aplikasi Daftar Pesawat adalah mini project Flutter yang berfungsi sebagai katalog sederhana untuk menyimpan informasi pesawat. Pengguna dapat menambahkan, melihat, mengedit, dan menghapus data pesawat dengan mudah. Aplikasi ini dibuat sebagai latihan dasar implementasi CRUD (Create, Read, Update, Delete) menggunakan Flutter.
-Fitur Aplikasi
+
+## Fitur Aplikasi
 - Create → Tambah data pesawat baru
 - Read → Tampilkan daftar pesawat dalam bentuk list
 - Update → Edit data pesawat yang sudah ada
